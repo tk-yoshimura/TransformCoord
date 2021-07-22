@@ -927,11 +927,12 @@ atransposed=ftransposed''(u(x))"
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2450)"
-       d="m 100.54167,122.375 c 11.46549,1.76392 22.93077,3.52781 34.39598,3.52779 11.4652,-2e-5 22.9307,-1.76395 34.39568,-3.52779"
+       d="m 108.47917,117.08333 c 8.81957,3.52783 17.63902,7.05561 26.45847,7.05556 8.81946,-6e-5 17.63908,-3.52791 26.45819,-7.05556"
        id="path2438"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect2440"
-       inkscape:original-d="m 100.54167,122.375 c 11.46554,1.76362 22.93082,3.52751 34.39583,5.29167 11.46532,-1.76412 22.93082,-3.52805 34.39583,-5.29167" />
+       inkscape:original-d="m 108.47917,117.08333 c 8.8197,3.52751 17.63915,7.0553 26.45833,10.58334 8.81954,-3.52798 17.63916,-7.05583 26.45833,-10.58334"
+       sodipodi:nodetypes="ccc" />
     <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text2532" />
