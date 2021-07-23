@@ -1,9 +1,9 @@
 \begin{align*}
-  g_{transposed} = g \cdot \frac{\mathrm{v}'(y)}{\mathrm{u}'(x)}
+  g_{\text{transformed}} = g \cdot \frac{\mathrm{v}'(y)}{\mathrm{u}'(x)}
 \end{align*}
 
 \begin{align*}
-  a_{transposed} = \frac{-g \cdot \mathrm{u}''(x) \mathrm{v}'(y) + g^2 \cdot \mathrm{u}'(x) \mathrm{v}''(y) + a \cdot \mathrm{u}'(x) \mathrm{v}'(y) }{ \{ \mathrm{u}'(x) \} ^3}
+  a_{\text{transformed}} = \frac{-g \cdot \mathrm{u}''(x) \mathrm{v}'(y) + g^2 \cdot \mathrm{u}'(x) \mathrm{v}''(y) + a \cdot \mathrm{u}'(x) \mathrm{v}'(y) }{ \{ \mathrm{u}'(x) \} ^3}
 \end{align*}
 
 \begin{eqnarray*}
@@ -13,14 +13,14 @@
 \end{eqnarray*}
 
 \begin{eqnarray*}
-  g_{transposed} &=& n x^{n-1} \cdot \frac{\mathrm{v}'(y)}{\mathrm{u}'(x)} \\
+  g_{\text{transformed}} &=& n x^{n-1} \cdot \frac{\mathrm{v}'(y)}{\mathrm{u}'(x)} \\
                  &=& n x^{n-1} \cdot \frac{1/x^n}{1/x} \\
                  &=& n x^{n-1} \cdot x \cdot x^{-n} \\
                  &=& n 
 \end{eqnarray*}
 
 \begin{eqnarray*}
-  a_{transposed} &=& \frac{-n x^{n-1} \cdot \mathrm{u}''(x) \mathrm{v}'(y) + (n x^{n-1})^2 \cdot \mathrm{u}'(x) \mathrm{v}''(y) + n (n-1) x^{n-2} \cdot \mathrm{u}'(x) \mathrm{v}'(y) }{ \{ \mathrm{u}'(x) \} ^3} \\
+  a_{\text{transformed}} &=& \frac{-n x^{n-1} \cdot \mathrm{u}''(x) \mathrm{v}'(y) + (n x^{n-1})^2 \cdot \mathrm{u}'(x) \mathrm{v}''(y) + n (n-1) x^{n-2} \cdot \mathrm{u}'(x) \mathrm{v}'(y) }{ \{ \mathrm{u}'(x) \} ^3} \\
                  &=& \frac{-n x^{n-1} \cdot (-1/x^2) (1/x^n) + n^2 x^{2n-2} \cdot (1/x) (-1/x^{2n}) + n (n-1) x^{n-2} \cdot (1/x) (1/x^n) }{ (1/x) ^3 } \\
                  &=& x^3 \left( n x^{n-1} \cdot x^{-n-2} - n^2 x^{2n-2} x^{-2n-1} + n (n-1) x^{n-2} \cdot x^{-n-1} \right) \\
                  &=& x^3 \left( n x^{-3} - n^2 x^{-3} + n (n-1) x^{-3} \right) \\
